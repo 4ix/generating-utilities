@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "images": "^3.2.4",
+    "json-files-merger": "^2.0.0",
+    "merge-images": "^2.0.0"
+  }
+}

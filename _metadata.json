@@ -1,0 +1,3702 @@
+[
+  {
+    "name": "BunnyMoonClub #0",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/0.png",
+    "dna": "144e27aacba6b8f1a3a54251526cb5ae9aae2d7f",
+    "edition": 0,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold gray"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "gray leather jacket"
+      },
+      {
+        "trait_type": "Head",
+        "value": "white glasses"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "silver watch"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "none"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow medium"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #1",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "25a2b32cc45394e9e70d84ed56833f0ec860a81b",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold blue"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "ballet"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black sunglassess"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "gold watch"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "silver watch"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "rainbow medium"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #2",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "6b4fb3d6422d7b628d1d413394ae36d0512ffa70",
+    "edition": 2,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold black"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "airforce"
+      },
+      {
+        "trait_type": "Head",
+        "value": "ballet"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "silver watch"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "gold earing"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #3",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "27acbc110d5579118941b4ec916e67f38b766eb3",
+    "edition": 3,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "white training"
+      },
+      {
+        "trait_type": "Head",
+        "value": "pink princess"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "neckguard"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "beer"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "rainbow medium"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #4",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "1fbdce2f3d9d0e0c2f9c42e35801a58e710fc5c0",
+    "edition": 4,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold brown"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "pink training"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black sunglassess"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "eth"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "none"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow medium"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #5",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "2e4ef33d0e627b7caa77aec1b1b5d4a051510f1f",
+    "edition": 5,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "black"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "none"
+      },
+      {
+        "trait_type": "Head",
+        "value": "straw hat"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "gold watch"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "silver watch"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #6",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "57cdb16d132c928a3189d1b3f23fe780140a64f1",
+    "edition": 6,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold gold"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "black leather jacket"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black glasses"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "gold watch"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "red rose"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "rainbow large"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #7",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "dna": "716ae0fcb21d3f5bf04828087762ec7fac0eae89",
+    "edition": 7,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "none"
+      },
+      {
+        "trait_type": "Head",
+        "value": "none"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "black necktie"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "red rose"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow medium"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #8",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "d6326aa4bcfd2828baa379893c4526ef6abaaba3",
+    "edition": 8,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "none"
+      },
+      {
+        "trait_type": "Head",
+        "value": "navy"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "navy necktie"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "white bandage"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #9",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "dna": "34446ecc2190bd2f7cfea4338f91400e5bcb57a4",
+    "edition": 9,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "yellow princess"
+      },
+      {
+        "trait_type": "Head",
+        "value": "brown fedora"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "none"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "none"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow medium"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #10",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "dna": "3b5b0d3f34805f04c7635129155514b6e5286884",
+    "edition": 10,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "spotted"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "airforce"
+      },
+      {
+        "trait_type": "Head",
+        "value": "none"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue butterfly"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "silver earing"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow medium"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #11",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/11.png",
+    "dna": "9a224d3c6abb988ec6693825db4a03936941a6e0",
+    "edition": 11,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold brown"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "blue leather jacket"
+      },
+      {
+        "trait_type": "Head",
+        "value": "pink sunglassess"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "eth"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "blue carrot"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow medium"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #12",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/12.png",
+    "dna": "4fe6affbae9d7b519eceab994acc2fdc896a3a8f",
+    "edition": 12,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "captain"
+      },
+      {
+        "trait_type": "Body",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "blue sailor"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black fedora"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "klay"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "none"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "rainbow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #13",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/13.png",
+    "dna": "7d4f21b4c6fbb965ed7707e9879ad0d2cc013af0",
+    "edition": 13,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "captain"
+      },
+      {
+        "trait_type": "Body",
+        "value": "gray"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "yellow princess"
+      },
+      {
+        "trait_type": "Head",
+        "value": "pink sunglassess"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "gold watch"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "silver watch"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow large"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #14",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/14.png",
+    "dna": "a990859d06f1fc2929730324d718a3669a4d051e",
+    "edition": 14,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "rainbow"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "pink sailor"
+      },
+      {
+        "trait_type": "Head",
+        "value": "brown fedora"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "black necktie"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "red rose"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow medium"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #15",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/15.png",
+    "dna": "06ac5db6bfabf336e87ac699ac95fc5800c9c139",
+    "edition": 15,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold gold"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "none"
+      },
+      {
+        "trait_type": "Head",
+        "value": "blue cap"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "navy necktie"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "skull"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "rainbow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #16",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/16.png",
+    "dna": "7ceca29870f83b392be723d2198fe91e91fa2942",
+    "edition": 16,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "pink sailor"
+      },
+      {
+        "trait_type": "Head",
+        "value": "white cap"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "gold watch"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "silver watch"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow large"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #17",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/17.png",
+    "dna": "8cd1ac76d78d5a9db2656f8a6d384b1fbaf2c8f6",
+    "edition": 17,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "black leather jacket"
+      },
+      {
+        "trait_type": "Head",
+        "value": "red cap"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "black necktie"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "silver piercing"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #18",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/18.png",
+    "dna": "e3a8d158bb59d9e118fef209400d3ba15dda6489",
+    "edition": 18,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "gold"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "space suit"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black fedora"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "navy necktie"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "carrot"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #19",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/19.png",
+    "dna": "1134e5c96f5b27d5fc9707e2c836e36ff8c7eab3",
+    "edition": 19,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "airforce"
+      },
+      {
+        "trait_type": "Head",
+        "value": "gold angel ring"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "yellow butterfly"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "silver piercing"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #20",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/20.png",
+    "dna": "d339f3f5a917d778e4ce30b459c62c46fbf922fb",
+    "edition": 20,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "captain"
+      },
+      {
+        "trait_type": "Body",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "white princess"
+      },
+      {
+        "trait_type": "Head",
+        "value": "blue cap"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "yellow butterfly"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "blue carrot"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow medium"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #21",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/21.png",
+    "dna": "0b299ede75d4167537af5bea3b85b9c5a5270d09",
+    "edition": 21,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "gray leather jacket"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black glasses"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "navy necktie"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "white bandage"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #22",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/22.png",
+    "dna": "010b25dad237ddb5eda2cdf540b3c92b7b0e75a2",
+    "edition": 22,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold gray"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "pink leather jacket"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black sunglassess"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "black necktie"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "red flowerpot"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "rainbow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #23",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/23.png",
+    "dna": "7a394e6a85e62be14e776b340f12c5d2715516c5",
+    "edition": 23,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "captain"
+      },
+      {
+        "trait_type": "Body",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "blue training"
+      },
+      {
+        "trait_type": "Head",
+        "value": "pink headset"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "red butterfly"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "red rose"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #24",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/24.png",
+    "dna": "ad0067279db686afc377100e54ca069b4a346d02",
+    "edition": 24,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold black"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "none"
+      },
+      {
+        "trait_type": "Head",
+        "value": "pink headset"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "black necktie"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "silver watch"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow medium"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #25",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/25.png",
+    "dna": "4050878dadae3cd1968f529b8af5f5acee277569",
+    "edition": 25,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "gray"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "none"
+      },
+      {
+        "trait_type": "Head",
+        "value": "brown fedora"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "navy necktie"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "none"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #26",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/26.png",
+    "dna": "42501c7d0d1fa45bee91ff246edc64e770873294",
+    "edition": 26,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "captain"
+      },
+      {
+        "trait_type": "Body",
+        "value": "gray"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "pink leather jacket"
+      },
+      {
+        "trait_type": "Head",
+        "value": "headgear"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "black necktie"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "gold watch"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #27",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/27.png",
+    "dna": "46d26c5dc36f6975dc9ff7cb59dfe4d59fb6fdd4",
+    "edition": 27,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "captain"
+      },
+      {
+        "trait_type": "Body",
+        "value": "zombie"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "pink training"
+      },
+      {
+        "trait_type": "Head",
+        "value": "yellow beanie"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "gold watch"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "white mask"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "rainbow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #28",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/28.png",
+    "dna": "c4a2872016df28cfbeaf22673b7c3f96772199f5",
+    "edition": 28,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold brown"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "gray leather jacket"
+      },
+      {
+        "trait_type": "Head",
+        "value": "yellow princess"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "none"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "none"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #29",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/29.png",
+    "dna": "22cb56b7b12f9c9f115632da35a590d60de1407a",
+    "edition": 29,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "rainbow"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "navy"
+      },
+      {
+        "trait_type": "Head",
+        "value": "orange beanie"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "klay"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "blue carrot"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "rainbow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #30",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/30.png",
+    "dna": "59ddc64e7598c9aae3d5cdbb6264cf433bd8716f",
+    "edition": 30,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold yellow"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "black leather jacket"
+      },
+      {
+        "trait_type": "Head",
+        "value": "straw hat"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "skull"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "carrot"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #31",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/31.png",
+    "dna": "ffe70f5eaeceab6d6c4eae6848aebfd691e49244",
+    "edition": 31,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "gold"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "pink training"
+      },
+      {
+        "trait_type": "Head",
+        "value": "airforce"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "silver watch"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "red bracelet"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #32",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/32.png",
+    "dna": "60113d11152a8bfd6b20e022b4f4f3cad49ab56a",
+    "edition": 32,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold white"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "gray leather jacket"
+      },
+      {
+        "trait_type": "Head",
+        "value": "white princess"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "skull"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "carrot"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "rainbow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #33",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/33.png",
+    "dna": "8e5c16bae8678abf1f7a7a229972ed6b4b4845a5",
+    "edition": 33,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "captain"
+      },
+      {
+        "trait_type": "Body",
+        "value": "spotted"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "pink princess"
+      },
+      {
+        "trait_type": "Head",
+        "value": "airforce"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "yellow butterfly"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "blue rose"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow medium"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #34",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/34.png",
+    "dna": "ebb1cdcf836ddb4fb8276a2db6f5739c13be1797",
+    "edition": 34,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold blue"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "yellow princess"
+      },
+      {
+        "trait_type": "Head",
+        "value": "pink headset"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue butterfly"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "white bandage"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow medium"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #35",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/35.png",
+    "dna": "4e7168b8798376f2922f2f3e4f0955214842ada7",
+    "edition": 35,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "captain"
+      },
+      {
+        "trait_type": "Body",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "blue sailor"
+      },
+      {
+        "trait_type": "Head",
+        "value": "none"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "none"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "blue butterfly"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow large"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #36",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/36.png",
+    "dna": "0bad52c546714fa197f34829a02d302b7a6bed67",
+    "edition": 36,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "genesis"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold yellow"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "silver tuxedo"
+      },
+      {
+        "trait_type": "Head",
+        "value": "white glasses"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "black necktie"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "red bracelet"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "rainbow medium"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #37",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/37.png",
+    "dna": "91fcd7e572f0444da36b6d58b4393f5fc276c4c9",
+    "edition": 37,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "gray"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "black leather jacket"
+      },
+      {
+        "trait_type": "Head",
+        "value": "army"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "klay"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "red rose"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #38",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/38.png",
+    "dna": "1014bcdaddbf5c96095250ca82f0e23516156c01",
+    "edition": 38,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold gray"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "blue leather jacket"
+      },
+      {
+        "trait_type": "Head",
+        "value": "pink sailor"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "black necktie"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "white mask"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow medium"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #39",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/39.png",
+    "dna": "ffa588323210734c233348f7aecd620c67ecbcae",
+    "edition": 39,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "genesis"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold black"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "green training"
+      },
+      {
+        "trait_type": "Head",
+        "value": "pink sunglassess"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "gold watch"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "gold watch"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #40",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/40.png",
+    "dna": "d81a7ebb91a698e650076908d671242bfbc7ac15",
+    "edition": 40,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold brown"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "green training"
+      },
+      {
+        "trait_type": "Head",
+        "value": "orange beanie"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "bit"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "none"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #41",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/41.png",
+    "dna": "cf4ec173e905797b07a470464b5844095ccc3db7",
+    "edition": 41,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "gold"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "white princess"
+      },
+      {
+        "trait_type": "Head",
+        "value": "none"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "klay"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "none"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #42",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/42.png",
+    "dna": "843658d282e648c9f3a84bbfcf612ff943ea406f",
+    "edition": 42,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold brown"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "navy"
+      },
+      {
+        "trait_type": "Head",
+        "value": "brown fedora"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "none"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "carrot"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow medium"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #43",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/43.png",
+    "dna": "5b6035b676f5a4a2d14a7e56924879259a21032c",
+    "edition": 43,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold black"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "space suit"
+      },
+      {
+        "trait_type": "Head",
+        "value": "navy"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "silver watch"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "devil wing"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "rainbow medium"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #44",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/44.png",
+    "dna": "17a9995c09fc6f080e1fe61a0bfc58265d4d331b",
+    "edition": 44,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "army"
+      },
+      {
+        "trait_type": "Head",
+        "value": "straw hat"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue butterfly"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "red butterfly"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow medium"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #45",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/45.png",
+    "dna": "4c95b7ed8aa6b216fdbef4f7560a174bbe90f9b8",
+    "edition": 45,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "black"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "blue leather jacket"
+      },
+      {
+        "trait_type": "Head",
+        "value": "none"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "skull"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "red rose"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow medium"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #46",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/46.png",
+    "dna": "9b87216c7c3076177449db93735dd0fd87d19a5f",
+    "edition": 46,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "white"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "silver tuxedo"
+      },
+      {
+        "trait_type": "Head",
+        "value": "airforce"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "silver watch"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "white bandage"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "rainbow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #47",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/47.png",
+    "dna": "23e0699dac6c182e81d22d0e18912f0a984484e1",
+    "edition": 47,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "captain"
+      },
+      {
+        "trait_type": "Body",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "pink princess"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black fedora"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "bit"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "gray bandage"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #48",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/48.png",
+    "dna": "547908a804a954b6a86746a565a79fa8bfa0dd4d",
+    "edition": 48,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "black"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "blue training"
+      },
+      {
+        "trait_type": "Head",
+        "value": "white princess"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "yellow butterfly"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "silver earing"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow medium"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #49",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/49.png",
+    "dna": "5b2918bb1e1c4a4aed6086c19e26f6f633b76957",
+    "edition": 49,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "captain"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold gold"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "gray leather jacket"
+      },
+      {
+        "trait_type": "Head",
+        "value": "white princess"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "bit"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "white mask"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow medium"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #50",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/50.png",
+    "dna": "d6171bc2f96f15422828389391c1eb035a902a81",
+    "edition": 50,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "captain"
+      },
+      {
+        "trait_type": "Body",
+        "value": "black"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "blue sailor"
+      },
+      {
+        "trait_type": "Head",
+        "value": "airforce"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue butterfly"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "none"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #51",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/51.png",
+    "dna": "4874c05b262d23a2288a54dbe421be888efa1005",
+    "edition": 51,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "black tuxedo"
+      },
+      {
+        "trait_type": "Head",
+        "value": "pink sailor"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "gold watch"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "silver earing"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow large"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #52",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/52.png",
+    "dna": "d4ab338670758c6b13833a66fb6bab22eb67c905",
+    "edition": 52,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "captain"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold brown"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "black tuxedo"
+      },
+      {
+        "trait_type": "Head",
+        "value": "pink headset"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "silver watch"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "white mask"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #53",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/53.png",
+    "dna": "aa7a6a252d69b5dd94b65df566d3e81a054d11c8",
+    "edition": 53,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold brown"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "pink leather jacket"
+      },
+      {
+        "trait_type": "Head",
+        "value": "yellow beanie"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "none"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "carrot"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "rainbow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #54",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/54.png",
+    "dna": "7917fda351ea8f5022c2f61d9dd9f915b26deeac",
+    "edition": 54,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "captain"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold pink"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "green training"
+      },
+      {
+        "trait_type": "Head",
+        "value": "pink sunglassess"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "silver watch"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "white mask"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow medium"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #55",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/55.png",
+    "dna": "1686c08c477f62c0910e8e46875d45a4f8636677",
+    "edition": 55,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "pink princess"
+      },
+      {
+        "trait_type": "Head",
+        "value": "pink sailor"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "bit"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "gold watch"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "rainbow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #56",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/56.png",
+    "dna": "f5e102be8af632f3dd079b8e4a5577861b1272a3",
+    "edition": 56,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "pink training"
+      },
+      {
+        "trait_type": "Head",
+        "value": "pink sunglassess"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "navy necktie"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "red bracelet"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #57",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/57.png",
+    "dna": "d0a149ac9f0440804ace714bf6b377ef06b151d1",
+    "edition": 57,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "black"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "pink princess"
+      },
+      {
+        "trait_type": "Head",
+        "value": "ballet"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue butterfly"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "gray bandage"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #58",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/58.png",
+    "dna": "c5191f360f21626d62de5d35423741566d53d9a3",
+    "edition": 58,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold white"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "navy tuxedo"
+      },
+      {
+        "trait_type": "Head",
+        "value": "airforce"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "gold watch"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "none"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "rainbow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #59",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/59.png",
+    "dna": "4403de28a3cbaf1855683b29290da676120f3ab8",
+    "edition": 59,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold brown"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "black leather jacket"
+      },
+      {
+        "trait_type": "Head",
+        "value": "army"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue butterfly"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "black mask"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow medium"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #60",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/60.png",
+    "dna": "0be97491366815b99ec2b24d09c759a27a57e728",
+    "edition": 60,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold gray"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "none"
+      },
+      {
+        "trait_type": "Head",
+        "value": "blue cap"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "silver watch"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "skull"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #61",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/61.png",
+    "dna": "3e9f0ca0b0d4efe89ddd0e17c1439b979420148b",
+    "edition": 61,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold yellow"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "silver tuxedo"
+      },
+      {
+        "trait_type": "Head",
+        "value": "blue cap"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "silver watch"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "red rose"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #62",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/62.png",
+    "dna": "d4127be7787610ff05c693da6bdca84d801c088b",
+    "edition": 62,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold white"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "navy tuxedo"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black sunglassess"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "gold watch"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "red flowerpot"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow large"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #63",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/63.png",
+    "dna": "387b6dd1fb0701c0e2987231c01135ce3139c7c9",
+    "edition": 63,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold gold"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "pink princess"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black fedora"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "gold watch"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "red rose"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow large"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #64",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/64.png",
+    "dna": "4c19dd6ec235cb0547eadfaa1d79e608b4ef849d",
+    "edition": 64,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "white"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "white training"
+      },
+      {
+        "trait_type": "Head",
+        "value": "yellow princess"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue butterfly"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "none"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #65",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/65.png",
+    "dna": "9e3643c88886bfecf5d1fc96559ae55a7fbca9e0",
+    "edition": 65,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "black"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "yellow princess"
+      },
+      {
+        "trait_type": "Head",
+        "value": "army"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "gold watch"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "carrot"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #66",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/66.png",
+    "dna": "c92702f5fe93bade867f3b30bbde940ff4df7c63",
+    "edition": 66,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "none"
+      },
+      {
+        "trait_type": "Head",
+        "value": "silver angel ring"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "silver watch"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "white bandage"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow medium"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #67",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/67.png",
+    "dna": "42cd907783ee3828e8439ce7306ed626ec41ad70",
+    "edition": 67,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "gray leather jacket"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black fedora"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue butterfly"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "blue rose"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow large"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #68",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/68.png",
+    "dna": "01b698b90ebe4251e94193cbf706dd85b279e3e0",
+    "edition": 68,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "captain"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold gold"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "none"
+      },
+      {
+        "trait_type": "Head",
+        "value": "airforce"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "klay"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "angel wing"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #69",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/69.png",
+    "dna": "ff214a2bd92eabef08cf427608fb274a822e2bc3",
+    "edition": 69,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold black"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "white training"
+      },
+      {
+        "trait_type": "Head",
+        "value": "none"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "black necktie"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "black bracelet"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #70",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/70.png",
+    "dna": "769a3b26b761480c967b2fc310cd6e0ee87327c8",
+    "edition": 70,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "captain"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold gray"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "navy tuxedo"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black sunglassess"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "gold watch"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "red bracelet"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "rainbow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #71",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/71.png",
+    "dna": "adb6b56694b530d2dfe8044dd75c43cb9e217159",
+    "edition": 71,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "gray"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "blue training"
+      },
+      {
+        "trait_type": "Head",
+        "value": "white glasses"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "gold watch"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "blue rose"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "rainbow large"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #72",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/72.png",
+    "dna": "edb73731068b8b9e3c9781365d34c823b168314a",
+    "edition": 72,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "zombie"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "pink sailor"
+      },
+      {
+        "trait_type": "Head",
+        "value": "yellow beanie"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "navy necktie"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "silver piercing"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #73",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/73.png",
+    "dna": "108bcc3c7a3415d178c6fb64b3c1fb21f52a76b0",
+    "edition": 73,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold blue"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "white training"
+      },
+      {
+        "trait_type": "Head",
+        "value": "none"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "silver watch"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "silver piercing"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #74",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/74.png",
+    "dna": "aa8333b31037f0eea4120fc7966e50d39e1a57b5",
+    "edition": 74,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "navy tuxedo"
+      },
+      {
+        "trait_type": "Head",
+        "value": "none"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "skull"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "black mask"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "rainbow large"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #75",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/75.png",
+    "dna": "a86963f11841b88bdaf7be48b283ddf341b0f1fc",
+    "edition": 75,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "alien"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "airforce"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black glasses"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "gold watch"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "blue carrot"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #76",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/76.png",
+    "dna": "e0642f9ffe6978cc3f197865e71f8cf66421c23d",
+    "edition": 76,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "black"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "ballet"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black sunglassess"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "skull"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "gold piercing"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow medium"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #77",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/77.png",
+    "dna": "96b9f72d7589d10c1f3fabd5a3fd5925f2e3511f",
+    "edition": 77,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "captain"
+      },
+      {
+        "trait_type": "Body",
+        "value": "gray"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "white training"
+      },
+      {
+        "trait_type": "Head",
+        "value": "pink sunglassess"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "none"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "blue flowerpot"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "rainbow medium"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #78",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/78.png",
+    "dna": "6de294533ab7c3c7b07a19dd4e02658764424538",
+    "edition": 78,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "gold"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "silver tuxedo"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black glasses"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "navy necktie"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "blue rose"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #79",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/79.png",
+    "dna": "7bb3f180df87bdd54c27de7e39f4100c5bec6703",
+    "edition": 79,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "captain"
+      },
+      {
+        "trait_type": "Body",
+        "value": "zombie"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "blue training"
+      },
+      {
+        "trait_type": "Head",
+        "value": "white cap"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "skull"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "carrot"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #80",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/80.png",
+    "dna": "845a83e7ea1a2d1400623f2ebd7022fa427b4da4",
+    "edition": 80,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold gold"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "black leather jacket"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black sunglassess"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "bit"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "black bracelet"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "rainbow medium"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #81",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/81.png",
+    "dna": "ffd170969659e94c646b4e804e2be450225ba72a",
+    "edition": 81,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "pink princess"
+      },
+      {
+        "trait_type": "Head",
+        "value": "pink sunglassess"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "navy necktie"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "white bandage"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "rainbow medium"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #82",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/82.png",
+    "dna": "5ae0aed2efb659bb2e3db3f93918c8a132ed8036",
+    "edition": 82,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold pink"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "white princess"
+      },
+      {
+        "trait_type": "Head",
+        "value": "blue sailor"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "klay"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "red flowerpot"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #83",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/83.png",
+    "dna": "000289eef31b1e1ae099546b363e9e4319339e4c",
+    "edition": 83,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "captain"
+      },
+      {
+        "trait_type": "Body",
+        "value": "spotted"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "blue sailor"
+      },
+      {
+        "trait_type": "Head",
+        "value": "red cap"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "gold watch"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "beer"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow medium"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #84",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/84.png",
+    "dna": "8be0dc17b330689dfa6d2b255430006e39470e19",
+    "edition": 84,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold white"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "ballet"
+      },
+      {
+        "trait_type": "Head",
+        "value": "blue cap"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "none"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "none"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #85",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/85.png",
+    "dna": "189aa9164e478cbceb279a8b9c2e6e73335c809b",
+    "edition": 85,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "army"
+      },
+      {
+        "trait_type": "Head",
+        "value": "yellow beanie"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "klay"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "gold watch"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow medium"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #86",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/86.png",
+    "dna": "61fc0e194477b6d1dd23eacd950c2c5ca37283e8",
+    "edition": 86,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold blue"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "black tuxedo"
+      },
+      {
+        "trait_type": "Head",
+        "value": "brown fedora"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "red butterfly"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "silver earing"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #87",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/87.png",
+    "dna": "aa403b3fc870c4adc73990da9d619fbf4fce6b5a",
+    "edition": 87,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold gold"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "airforce"
+      },
+      {
+        "trait_type": "Head",
+        "value": "yellow princess"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "black necktie"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "carrot"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "rainbow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #88",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/88.png",
+    "dna": "e4cfb965a90d37b45aba76accb995516fc76d5db",
+    "edition": 88,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "black"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "none"
+      },
+      {
+        "trait_type": "Head",
+        "value": "silver angel ring"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "neckguard"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "none"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "rainbow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #89",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/89.png",
+    "dna": "705116526f1f2a805b4d99532d9cd14d938142a4",
+    "edition": 89,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "captain"
+      },
+      {
+        "trait_type": "Body",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "pink training"
+      },
+      {
+        "trait_type": "Head",
+        "value": "yellow princess"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "skull"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "none"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #90",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/90.png",
+    "dna": "179a47588d71eaa87a4399146529279d5cf12713",
+    "edition": 90,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold gold"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "navy"
+      },
+      {
+        "trait_type": "Head",
+        "value": "blue sailor"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "gold watch"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "blue butterfly"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "rainbow large"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #91",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/91.png",
+    "dna": "e8e0892297b8a4c47be7041f9e5ae6842ff533a9",
+    "edition": 91,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "spotted"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "green training"
+      },
+      {
+        "trait_type": "Head",
+        "value": "white cap"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "navy necktie"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "red bracelet"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow large"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #92",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/92.png",
+    "dna": "d0397c0f648b46900da58a44615b000a4e8688ad",
+    "edition": 92,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "genesis"
+      },
+      {
+        "trait_type": "Body",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "navy"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black sunglassess"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "yellow butterfly"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "gray bandage"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #93",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/93.png",
+    "dna": "cebd6a93363284ea418a7456cf2aec5e6733fc19",
+    "edition": 93,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "captain"
+      },
+      {
+        "trait_type": "Body",
+        "value": "gold"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "blue training"
+      },
+      {
+        "trait_type": "Head",
+        "value": "pink headset"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue butterfly"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "red butterfly"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #94",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/94.png",
+    "dna": "5d09ef7f8f64c8c9969cc47dd8f350ab186fc1e3",
+    "edition": 94,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "zombie"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "black leather jacket"
+      },
+      {
+        "trait_type": "Head",
+        "value": "ballet"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue butterfly"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "carrot"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "rainbow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #95",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/95.png",
+    "dna": "5d1077e6179b8f3938d0b9bc6562c48190181bc1",
+    "edition": 95,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "black"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "silver tuxedo"
+      },
+      {
+        "trait_type": "Head",
+        "value": "headgear"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "bit"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "gray bandage"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow medium"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #96",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/96.png",
+    "dna": "b89feb7c8c0517b906042a95de6de2b548aca6c2",
+    "edition": 96,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "spotted"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "pink princess"
+      },
+      {
+        "trait_type": "Head",
+        "value": "pink princess"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "yellow butterfly"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "red butterfly"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "rainbow small"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #97",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/97.png",
+    "dna": "49b9b2b6ceabd5352effb1fd324071d8becb6dd4",
+    "edition": 97,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold yellow"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "army"
+      },
+      {
+        "trait_type": "Head",
+        "value": "navy"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "silver watch"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "blue flowerpot"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow medium"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #98",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/98.png",
+    "dna": "b4960d57114768ac6dcbb8d4115c382dcaf3de77",
+    "edition": 98,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "fold yellow"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "white princess"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black glasses"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "none"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "red rose"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow medium"
+      }
+    ]
+  },
+  {
+    "name": "BunnyMoonClub #99",
+    "description": "BunnyMoonClub is composed of unique and valuable generated NFT PFPs. They work hard and save coins to go to the moon by a big pop-rocket. This is the first project of Klaytn PFP Universe, It's great begins!",
+    "image": "ipfs://NewUriToReplace/99.png",
+    "dna": "97929f391188e3980d8e3158d6ef61ac94c10e3d",
+    "edition": 99,
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "moon"
+      },
+      {
+        "trait_type": "Body",
+        "value": "alien"
+      },
+      {
+        "trait_type": "Wear",
+        "value": "silver tuxedo"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black fedora"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "none"
+      },
+      {
+        "trait_type": "Accessory",
+        "value": "blue rose"
+      },
+      {
+        "trait_type": "Fuel",
+        "value": "yellow small"
+      }
+    ]
+  }
+]
